@@ -35,7 +35,7 @@
 以下では `product/tools/shoestring` 配下で作業します。
 
 ```sh
-cd /Users/utsu/local-repository/shoestring_ms/product/tools/shoestring
+cd PATH/TO/product/tools/shoestring
 ```
 
 作業用ディレクトリ例:
