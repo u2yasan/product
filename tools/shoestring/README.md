@@ -1,9 +1,5 @@
 # shoestring
 
-## Additional Guides
-
-- [Testnet multisig manual test guide (setup to linking transaction)](docs/testnet-multisig-manual-test/README.md)
-
 # Security
 
 > [!IMPORTANT]
